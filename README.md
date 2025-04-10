@@ -5,7 +5,7 @@
 ## 👋 About Me
 #### 💬 I'm studying to be a sdlkf
 #### 🎓  Bachelor of sdfd
-#### <img src="https://img.shields.io/badge/42?style=flat-square&logo=42&logoColor=black"/> Member of 42Seoul
+#### 4️⃣2️⃣ Member of 42Seoul
 
 
 
