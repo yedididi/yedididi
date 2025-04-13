@@ -3,8 +3,8 @@
 
 <!--Body-->
 ## 👋 About Me
-#### 💬 I'm studying to be a sdlkf
-#### 🎓  Bachelor of sdfd
+#### 💬 I'm studying to be a embedded software engineer
+#### 🎓  Bachelor’s Degree in Electronics Engineering, Soongsil University
 #### 4️⃣2️⃣ Member of 42Seoul
 
 
