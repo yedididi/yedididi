@@ -6,6 +6,17 @@
 #### 💬 I'm studying to be a embedded software engineer
 #### 🎓  Bachelor’s Degree in Electronics Engineering, Soongsil University
 #### 4️⃣2️⃣ Member of 42Seoul
+<!-- #### 📓 click to reach -> <a href="https://velog.io/@yedididi/posts" target="_blank">
+  <img src="https://img.shields.io/badge/My%20Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
+</a> -->
+<p>
+  <strong>📓 click to reach →</strong>
+  <a href="https://velog.io/@yedididi/posts" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
+  </a>
+</p>
+
+
 
 
 ## 💻 Tech Stack
@@ -24,6 +35,8 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </p>
+
+## 📍 Projects
 
 
 
